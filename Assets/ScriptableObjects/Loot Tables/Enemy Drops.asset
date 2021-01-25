@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6e3b26a65d3254d858cbe0ef14fd41, type: 3}
+  m_Name: Enemy Drops
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 5101905581790583517, guid: 0621d0570f3eb6f46b90139e6fcd58a4, type: 3}
+    lootChance: {fileID: 11400000, guid: 8f6459647a73ece4abaf4aa1b8ddf107, type: 2}
+  - thisLoot: {fileID: 5022424413625796798, guid: 5e99b69bd60333141ac42d51f141e6a3, type: 3}
+    lootChance: {fileID: 11400000, guid: 5e09ac543943b72448ff463fb9f152fe, type: 2}
+  - thisLoot: {fileID: 5052475278473107244, guid: 3157b11b35566514c8685a2b31d11bc8, type: 3}
+    lootChance: {fileID: 11400000, guid: c92198b55501afa4ca41036adcb7d56f, type: 2}

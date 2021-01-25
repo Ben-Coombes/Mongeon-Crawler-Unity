@@ -1,0 +1,2 @@
+C:\Users\benat\Unity\Mongeon Crawler\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\benat\Unity\Mongeon Crawler\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
